@@ -1,4 +1,4 @@
-# Автоматизация тест-кейсов для Habr.ru
+# Автоматизация тест-кейсов для Habr.com
 
 <p align="center">
    <img src="https://img.shields.io/badge/python-3.8-green" alt="Python Version">
